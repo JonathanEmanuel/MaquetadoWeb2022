@@ -1,0 +1,54 @@
+h1 {
+    color: slateblue;
+    text-align: right;
+}
+
+.textoImportante {
+    color: red;
+    font-size: 20px;
+}
+
+#codigo {
+    color: green;
+}
+p a {
+    font-size: 30px;
+}
+
+.grande {
+    font-size: 38px;
+}
+
+
+#titulo {
+    color: black;
+}
+h2 {
+    color: red;
+    font-size: 40px;
+}
+h2 {
+    color: green !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.subtitulo {
+    color: slateblue;
+}
+
+nav ul {
+    list-style: none;
+}
+nav ul li a {
+    font-style: italic;
+    text-decoration:none;
+}
+
+nav ul li a.negrita {
+    font-weight:900;
+    color: rgb(23, 23, 134);
+}
+
+.textoPrincipal {
+    line-height: 2.5;
+}
